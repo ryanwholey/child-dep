@@ -1,4 +1,4 @@
 module.exports = {
-    version: '3'
+    version: '4'
 }
 
